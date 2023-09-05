@@ -1,0 +1,21 @@
+# install by use python3.6
+tornado==4.5.3
+psycopg2==2.7.7
+SQLAlchemy==1.1.18
+netifaces==0.10.9
+pycrypto==2.6.1
+psutil==5.4.8
+six==1.11.0
+requests==2.18.4
+gevent==1.2.0
+Werkzeug==0.14.1
+patool==1.12
+bcrypt==3.1.7
+chardet==3.0.4
+ipaddress==1.0.23
+future==0.15.2
+Babel==2.4.0
+pyxdg==0.25
+Jinja2==2.10.3
+httplib2==0.14.0
+keyring==18.0.1
