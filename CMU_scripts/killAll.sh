@@ -1,4 +1,5 @@
 #!/bin/bash
+
 screen -wipe
 screen -S cmsAdminWebServer -X quit
 screen -S cmsResourceService -X quit
