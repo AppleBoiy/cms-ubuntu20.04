@@ -1,11 +1,4 @@
 # Essential Setup Scrips for CMS on Ubuntu 20.04
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-
 ## Introduction
 
 This repository provides a guide for setting up a Contest Management System (CMS) on an Ubuntu Server 20.04. The CMS is a crucial tool for managing and conducting programming contests. This README will help you get started with the setup.
@@ -67,3 +60,9 @@ To install and configure your CMS, follow these steps:
     ```
 
    Make sure to install the required packages for your specific CMS.
+
+---
+
+Get help: [Post in our discussion board](https://github.com/AppleBoiy/cms-ubuntu20.04/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+
+&copy; 2023 AppleBoiy &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](LICENSE)
