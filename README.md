@@ -1,4 +1,4 @@
-# Essential CMS Setup Guide for Ubuntu 20.04
+# Essential Setup Scrips for CMS on Ubuntu 20.04
 
 ## Table of Contents
 
