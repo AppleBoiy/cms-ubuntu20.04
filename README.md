@@ -55,7 +55,7 @@ To install and configure your CMS, follow these steps:
     sudo python3.6 -m pip install -r requirements.txt --no-use-pep517
     ```
 
-   Make sure to install the required packages for your specific CMS.
+   Make sure to install the required packages for your CMS.
 
 ---
 
